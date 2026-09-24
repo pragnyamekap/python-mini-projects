@@ -1,21 +1,27 @@
 # Python Mini Projects
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Projects](https://img.shields.io/badge/Mini%20Projects-12-brightgreen?style=for-the-badge)
+
 A collection of 12 beginner-friendly Python mini-projects built to strengthen core programming concepts, logic building, and problem-solving skills.
 
 ## 🚀 Projects Included
-1. **Temperature Converter** (`01_temp_converter.py`)
-2. **Number Guessing Game** (`02_number_guessing_game.py`)
-3. **To-Do App** (`03_todo.py`)
-4. **Quiz App** (`04_quiz_app.py`)
-5. **Rock Paper Scissors** (`05_rock_paper_scissors.py`)
-6. **Calculator** (`06_calculator.py`)
-7. **Password Generator** (`07_password_generator.py`)
-8. **BMI Calculator** (`08_bmi_calculator.py`)
-9. **Even/Odd Checker** (`09_even_odd.py`)
-10. **Dice Rolling Simulator** (`10_dice_rolling_simulator.py`)
-11. **Tic Tac Toe** (`11_tic_tac_toe.py`)
-12. **Digital Clock** (`12_digital_clock.py`)
 
+| # | Project Name | File Link | Key Concepts Used |
+|---|---|---|---|
+| 01 | Temperature Converter | [`01_temp_converter.py`](./01_temp_converter.py) | User Input, Basic Math |
+| 02 | Number Guessing Game | [`02_number_guessing_game.py`](./02_number_guessing_game.py) | Loops, `random` module |
+| 03 | To-Do App | [`03_todo.py`](./03_todo.py) | Lists, Functions |
+| 04 | Quiz App | [`04_quiz_app.py`](./04_quiz_app.py) | Dictionaries, Conditionals |
+| 05 | Rock Paper Scissors | [`05_rock_paper_scissors.py`](./05_rock_paper_scissors.py) | Control Flow, `random` |
+| 06 | Calculator | [`06_calculator.py`](./06_calculator.py) | Functions, Exception Handling |
+| 07 | Password Generator | [`07_password_generator.py`](./07_password_generator.py) | String manipulation, `random` |
+| 08 | BMI Calculator | [`08_bmi_calculator.py`](./08_bmi_calculator.py) | Mathematical operations |
+| 09 | Even/Odd Checker | [`09_even_odd.py`](./09_even_odd.py) | Modulo operator |
+| 10 | Dice Rolling Simulator | [`10_dice_rolling_simulator.py`](./10_dice_rolling_simulator.py) | Loops, `random` |
+| 11 | Tic Tac Toe | [`11_tic_tac_toe.py`](./11_tic_tac_toe.py) | 2D Arrays/Lists, Logic Building |
+| 12 | Digital Clock | [`12_digital_clock.py`](./12_digital_clock.py) | `tkinter` GUI, `time` module |
+   
 ---
 
 ## 🛠️ Concepts & Technologies Used
@@ -39,7 +45,7 @@ A collection of 12 beginner-friendly Python mini-projects built to strengthen co
 
    
  **Requirements:**
-   Sirf Python 3 installed hona chahiye. `tkinter`, `random`, `time` sab built-in hain — extra install ki zaroorat nahi.
+  Only Python 3.x is required. Built-in modules like `tkinter`, `random`, and `time` are used, so no additional dependencies need to be installed.
 
 ---
 
