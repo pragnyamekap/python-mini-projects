@@ -1,0 +1,2 @@
+# Python 3 standard library dependencies
+# Built-in modules used: tkinter, random, time, math
